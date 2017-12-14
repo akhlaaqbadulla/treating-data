@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512378738 source:c:\users\dell\documents\td programation c\devoirmaison2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
